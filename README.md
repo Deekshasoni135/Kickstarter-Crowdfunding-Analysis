@@ -86,19 +86,24 @@ Here is a preview of the dashboard that visualizes key insights from the crowdfu
 
 
 ## Results
+The analysis results are summarized as follows:
+- Out of all analyzed crowdfunding campaigns, about **140,310 succeeded**, while **188,240 failed** and **32,500** were **canceled**. This shows the importance of proper planning and community support.
 
-- **140.31k** projects succeeded, while **188.24k** failed to meet funding goals. **32.5k** were canceled.
-- The **United States** hosted the majority of projects.
-- Top categories: **Product Design**, **Music**, and **Tabletop Games**.
-- Peak year was **2015**; declining trends suggest a need for platform innovation.
+- The **United States** led in campaign volume, highlighting strong engagement with crowdfunding.
+
+- **Top-performing categories** included **Product Design, Music, and Tabletop Games**, reflecting backer interest in innovation and creativity.
+
+- Campaign activity peaked in **2015**, followed by a decline—suggesting a need to boost engagement and platform innovation.
 
 
 ## Recommendations
-
-- Focus on high-potential categories (e.g., Product Design, Music).
-- Expand globally by improving accessibility in other countries.
-- Enhance user experience via creator support, mentorship, and educational content.
-- Introduce pre-launch tools to improve campaign preparation.
+To enhance success rates and participation on crowdfunding platforms, consider the following:
+- Prioritize popular categories like Product Design and Music, where success rates are higher.
+- Expand globally by targeting underrepresented regions with localized content and marketing.
+- Support creators pre-launch through evaluation tools, mentorship, and planning resources.
+- Boost platform engagement using influencer campaigns, early-bird perks, and launch events.
+- Innovate user experience to maintain interest and attract new users.
+- Innovate user engagement strategies to boost participation and interest.
 
 
 ## References
