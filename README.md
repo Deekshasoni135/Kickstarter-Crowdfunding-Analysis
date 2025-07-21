@@ -53,27 +53,29 @@ EDA involved exploring the crowdfunding data to answer key questions, such as:
 
 Performed comprehensive data analysis using MySQL, focusing on Project status, geographic distribution, and total projects based on category.
 - Total number of projects by status
-<pre>  
+```sql
 SELECT state, COUNT(*) AS total_projects 
 FROM projects 
-GROUP BY state; </pre>
+GROUP BY state;
+```
   
 - Geographic distribution of projects
-<pre>
+```sql
 SELECT location_id,
        COUNT(*) AS total_projects
 FROM projects
 GROUP BY location_id
-ORDER BY total_projects DESC;  </pre>
+ORDER BY total_projects DESC;
+```
 
 - Project counts by category
-<pre>
+```sql
 SELECT category,
        COUNT(*) AS total_projects
 FROM projects
 GROUP BY category
 ORDER BY total_projects DESC;
-</pre>
+```
 
 ## Power BI Dashboard
 
