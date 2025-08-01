@@ -6,6 +6,7 @@ _An end-to-end analysis of Kickstarter data to uncover patterns behind successfu
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
@@ -13,6 +14,7 @@ _An end-to-end analysis of Kickstarter data to uncover patterns behind successfu
 - [Data Analysis](#data-analysis)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Results](#results)
+- [How to run this project](#how-to-run-this-project)
 - [Recommendations](#recommendations)
 - [References](#references)
 
@@ -21,7 +23,7 @@ _An end-to-end analysis of Kickstarter data to uncover patterns behind successfu
 
 This project aims to analyze Kickstarter crowdfunding data to understand trends, success factors, and key metrics that affect project performance globally. It includes data preprocessing, SQL-based exploration, Excel modeling, and Power BI dashboards for visual insights.
 
-## 💼 Business Problem
+## Business Problem
 
 Kickstarter hosts thousands of crowdfunding campaigns, but only a portion succeed.  
 Key questions explored:
@@ -35,7 +37,7 @@ Key questions explored:
 Crowdfunding data : The primary dataset used for this analysis is the “crowdfunding_data.csv” file, containing detailed information about project status, backers, geographical data of successful projects, and categories.
 
 
-## 🛠️ Tools and Technologies
+## Tools
 
 - **Excel** – Data preprocessing, metric calculations, static dashboards  
 - **MySQL** – Data querying, filtering, and aggregations  
@@ -108,6 +110,15 @@ The analysis results are summarized as follows:
 - **Top-performing categories** included **Product Design, Music, and Tabletop Games**, reflecting backer interest in innovation and creativity.
 
 - Campaign activity peaked in **2015**, followed by a decline—suggesting a need to boost engagement and platform innovation.
+
+
+## How to run this project?
+
+1. Clone or download this repository  
+2. Load the dataset into MySQL and run queries for analysis  
+3. Use Excel to clean and summarize results  
+4. Connect Tableau to the cleaned dataset (Excel or SQL)  
+5. Explore the dashboards and filter by category, year, or location
 
 
 ## Recommendations
