@@ -1,4 +1,7 @@
-# Kickstarter Crowdfunding Analysis
+# Kickstarter-Crowdfunding-Analysis-Excel-SQL-Power BI
+
+_An end-to-end analysis of Kickstarter data to uncover patterns behind successful campaigns using Excel, SQL, and Power BI._
+
 
 ## Table of Contents
 
@@ -16,19 +19,30 @@
 
 ## Project Overview
 
-This data analysis project aims to analyze crowdfunding dynamics on platforms like Kickstarter, focusing on key areas such as project success rates, geographic distribution, success based on backer count, and category popularity.
+This project aims to analyze Kickstarter crowdfunding data to understand trends, success factors, and key metrics that affect project performance globally. It includes data preprocessing, SQL-based exploration, Excel modeling, and Power BI dashboards for visual insights.
 
+## 💼 Business Problem
+
+Kickstarter hosts thousands of crowdfunding campaigns, but only a portion succeed.  
+Key questions explored:
+- What is the overall success rate?
+- Which project categories perform best?
+- How does success vary by time and location?
+- What makes a project more likely to succeed?
 
 ## Data Sources
 
 Crowdfunding data : The primary dataset used for this analysis is the “crowdfunding_data.csv” file, containing detailed information about project status, backers, geographical data of successful projects, and categories.
 
 
-## Tools
+## 🛠️ Tools and Technologies
 
-- **Excel** – Used for Data Cleaning  
-- **MySQL** – Data Analysis  
-- **Power BI** – Creating KPI’s and Dashboard
+- **Excel** – Data preprocessing, metric calculations, static dashboards  
+- **MySQL** – Data querying, filtering, and aggregations  
+- **Power BI** – Visual storytelling, interactive dashboards  
+- **Power Query / Pivot Tables** – For Excel analysis  
+- **DateTime Converter** – Epoch to natural time conversion  
+
 
 
 ## Data Cleaning
